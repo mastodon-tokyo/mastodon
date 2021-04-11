@@ -11,6 +11,10 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 - Fix getting-started footer in single column mode not being clickable in Safari ([noellabo](https://github.com/tootsuite/mastodon/pull/15496))
+- Bump mimemagic from 0.3.5 to 0.3.10 ([h12o](https://github.com/mastodon-tokyo/mastodon/issues/5))
+  - Bump Rails from 5.2.4.4 to 5.2.5
+  - Bump marcel from 0.3.3 to 1.0.0
+  - Bump mini_mime from 1.0.2 to 1.0.3
 
 ## [3.3.0] - 2020-12-27
 ### Added
