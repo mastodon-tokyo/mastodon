@@ -8,6 +8,10 @@ All notable changes to this project will be documented in this file.
 
 - Add a custom suffix to the version number and modify the repository ([h12o](https://github.com/mastodon-tokyo/mastodon/issues/1))
 
+### Fixed
+
+- Fix getting-started footer in single column mode not being clickable in Safari ([noellabo](https://github.com/tootsuite/mastodon/pull/15496))
+
 ## [3.3.0] - 2020-12-27
 ### Added
 
