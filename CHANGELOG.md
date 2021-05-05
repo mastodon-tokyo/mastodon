@@ -3,7 +3,7 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [3.3.0#mastodon-tokyo] - 2021-05-05
 ### Added
 
 - Add a custom suffix to the version number and modify the repository ([h12o](https://github.com/mastodon-tokyo/mastodon/issues/1))
