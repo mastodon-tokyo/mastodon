@@ -3,6 +3,11 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+### Fixed
+
+- Bump mastodon from 3.3.0 to 3.4.0 ([h12o](https://github.com/mastodon-tokyo/mastodon/issues/6))
+
 ## [3.4.0] - 2021-05-16
 ### Added
 
